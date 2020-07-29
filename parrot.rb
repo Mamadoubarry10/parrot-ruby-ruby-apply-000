@@ -5,4 +5,4 @@ def parrot (yell = "squawk!")
   
 end
 
-parrot('alpha')
+parrot("alpha")
